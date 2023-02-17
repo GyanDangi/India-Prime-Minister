@@ -27,7 +27,7 @@ main {
     /* position: relative;
     left: 120px; */
 }
-#imgSlider{
+#imgSlider, img{
 /* width: 18%; */
 margin-left: auto;
 margin-right: auto;
