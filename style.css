@@ -27,16 +27,13 @@ main {
     /* position: relative;
     left: 120px; */
 }
-#imgSlider, img{
-/* width: 18%; */
+#imgSlider{
 margin-left: auto;
 margin-right: auto;
 margin-top: 30px;
-/* float: ; */
 padding: auto;
 width: 50vw;
 height: 112vh;
-/* display: contents; */
 background-image: url('/Images/01.jpg');
 background-size: 100% 100%;
 box-shadow: rgba(14, 8, 1, 0.142) 0px 7px 29px 0px;
@@ -48,23 +45,23 @@ left: 5px;
 
 }
 
-/* @keyframes changeImage {
+@keyframes changeImage {
     0%{
-        background-image: url('/Images/01.jpg');
+        background-image: url('/Images/07.jpg');
     }
     25%{
-        background-image: url('/Images/02.jpg');
+        background-image: url('/Images/08.jpg');
     }
     50%{
         background-image: url('/Images/03.jpg');
     }
     75%{
-        background-image: url('/Images/04.jpg');
+        background-image: url('/Images/09.jpg');
     }
     100%{
-        background-image: url('/Images/05.jpg');
+        background-image: url('/Images/06.jpg');
     }
-} */
+}
 
 section {
     /* margin-left: 10px; */
