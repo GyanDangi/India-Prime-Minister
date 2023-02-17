@@ -34,7 +34,7 @@ margin-top: 30px;
 padding: auto;
 width: 50vw;
 height: 112vh;
-background-image: url('/Images/01.jpg');
+/* background-image: url('/Images/01.jpg'); */
 background-size: 100% 100%;
 box-shadow: rgba(14, 8, 1, 0.142) 0px 7px 29px 0px;
 animation: changeImage 20s linear  infinite ;
